@@ -3,7 +3,6 @@
 }
 
 body{
-    width: 100%;
     height: 100vh;
     background-color: #181818;
 }
@@ -18,11 +17,10 @@ body{
 }
 .mtavari{
     margin: 60px auto;
+    width: 100%;
 
 }
 .text{
-    width: 591px;
-    height: 162px;
     text-align: center;
     display: inline;
 }
@@ -53,7 +51,6 @@ body{
     border: 1px solid #d3d3d3;
     border-radius: 10px;
     font-family: font;
-    
 }
 .card1{
     margin-left: 130px;
@@ -61,6 +58,10 @@ body{
 .card2{
     margin-right: 130px;
 }
+
+
+
+
 
 
 .satauri1 {
