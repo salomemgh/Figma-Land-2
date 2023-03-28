@@ -41,7 +41,8 @@ body{
 .mtavari2{
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    Gap: 30px;
 }
 
 .card1, .card2{
@@ -51,6 +52,7 @@ body{
     border: 1px solid #d3d3d3;
     border-radius: 10px;
     font-family: font;
+    
 }
 .card1{
     margin-left: 130px;
@@ -58,8 +60,6 @@ body{
 .card2{
     margin-right: 130px;
 }
-
-
 
 
 
